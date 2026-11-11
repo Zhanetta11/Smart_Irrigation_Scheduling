@@ -1,0 +1,19 @@
+# Data processing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebooks
+jupyter
+ipykernel
+
+# Weather data API
+requests
+
+# Deep Reinforcement Learning
+torch
+gymnasium
